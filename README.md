@@ -1,4 +1,4 @@
-Super Mario Bros Level 1
+Super Barish Bros Level 1
 =============
 
 An attempt to recreate the first level of Super Mario Bros.
