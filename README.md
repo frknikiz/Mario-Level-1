@@ -3,8 +3,8 @@ Super Mario Bros Level 1
 
 An attempt to recreate the first level of Super Mario Bros.
 
-![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/baris1.png)
-![screenshot](https://raw.github.com/justinmeister/Mario-Level-1/master/baris2.png)
+![screenshot](https://github.com/frknikiz/Mario-Level-1/raw/master/baris1.png)
+![screenshot](https://github.com/frknikiz/Mario-Level-1/raw/master/baris2.png)
 CONTROLS: 
 
 Arrow keys for direction
